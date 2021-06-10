@@ -1,35 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Name: Hulu 2.o clone
 
-## Getting Started
+### <a href="https://hulu-clone-beryl.vercel.app/">LIVE DEMO</a>
 
-First, run the development server:
+## Using Technologies:
+* Next.js
+* Tailwind CSS
+* tailwind-scrollbar-hide
+* react-flip-move
+* 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Description: 
+This is a hulu 2.o clone project. Here you can see so many categories movies, songs, videos etc. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 1. Make sure you have NODE installed!
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 2. Clone the repo!
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-## Learn More
+```git clone https://github.com/arfin-2020/hulu-clone.git```
 
-To learn more about Next.js, take a look at the following resources:
+## 3. Install Dependancies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Next, you need to install all the dependancies using:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```npm install```
 
-## Deploy on Vercel
+Once this is done, you can start the app with:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```npm start```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# hulu-clone
+## Credits
+
+##### Original Idea
+
+<a href="https://github.com/sonnysangha">Inspiration from Sonny Sangha</a>
